@@ -1,0 +1,14 @@
+ICMLA 2014 Accepted Papers Dataset,
+data source,https://archive.ics.uci.edu/ml/datasets/ICMLA+2014+Accepted+Papers+Data+Set
+relevant paper,https://www.sciencedirect.com/science/article/pii/S1877050917307998
+,
+Data Set Information:,
+CSV format where each row is a paper and each column an attribute.,
+,
+,
+Attribute Information:,
+Paper_Id: Number; identifier of the paper,
+Paper_Title: Free text; title of the paper,
+Author_Keywords: Free text; author-generated keywords,
+Abstract: Free text; paper abstracts,
+"Session: Categorical; conference organizer's-selected, conference session in which the paper was presented [gold cluster]",
